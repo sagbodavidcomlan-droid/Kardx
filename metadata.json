@@ -1,0 +1,7 @@
+{
+  "name": "KardX - Plateforme de Carte de Visite Digitale NFC & QR",
+  "description": "Plateforme SaaS complète d'identité professionnelle digitale, networking NFC/QR, capture de prospects, gestion d'équipes et analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
